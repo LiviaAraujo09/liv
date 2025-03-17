@@ -1,0 +1,18 @@
+body {background-color: aquamarine;
+}
+h1 {text-align: center;
+color: rgb(52, 10, 240);
+font-size: 250%;
+}
+h2 {color: blueviolet;
+border-style: double;
+border-width: 5px;
+border-color: rgb(30, 2, 56);
+margin-right: 71%;
+}
+.ima1 {width: 40%;
+    margin-right: 20%;
+}
+
+h3{font-size: 150%;
+}
